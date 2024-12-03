@@ -24,6 +24,11 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -38,31 +43,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Json_complex.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Pyspark_Tutorial-2.executor&quot;: &quot;Run&quot;,
-    &quot;Python._pydev_execfile.executor&quot;: &quot;Run&quot;,
-    &quot;Python.boto3rds.executor&quot;: &quot;Run&quot;,
-    &quot;Python.creditcardtask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.excelXMLdata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.explodeeg.executor&quot;: &quot;Run&quot;,
-    &quot;Python.jsondata.executor&quot;: &quot;Run&quot;,
-    &quot;Python.kafkaCOnsumer.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pandsusecase_excel_url.executor&quot;: &quot;Run&quot;,
-    &quot;Python.pysparktask1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.rama.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sample.executor&quot;: &quot;Run&quot;,
-    &quot;Python.streamingpoc.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.xmlusecase2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/RAMAKRISHNA/PycharmProjects/pythonProject1&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Json_complex.executor": "Run",
+    "Python.Pyspark_Tutorial-2.executor": "Run",
+    "Python._pydev_execfile.executor": "Run",
+    "Python.boto3rds.executor": "Run",
+    "Python.creditcardtask.executor": "Run",
+    "Python.excelXMLdata.executor": "Run",
+    "Python.explodeeg.executor": "Run",
+    "Python.jsondata.executor": "Run",
+    "Python.kafkaCOnsumer.executor": "Run",
+    "Python.pandsusecase_excel_url.executor": "Run",
+    "Python.pysparktask1.executor": "Run",
+    "Python.rama.executor": "Run",
+    "Python.sample.executor": "Run",
+    "Python.streamingpoc.executor": "Run",
+    "Python.task.executor": "Run",
+    "Python.task12.executor": "Run",
+    "Python.xmlusecase2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "Pyspark",
+    "last_opened_file_path": "C:/Users/RAMAKRISHNA/PycharmProjects/pythonProject1",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\RAMAKRISHNA\PycharmProjects\pythonProject1" />
@@ -240,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733235207270</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1733237021266</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1733237021266</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
